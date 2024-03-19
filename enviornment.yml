@@ -1,0 +1,7 @@
+name: react-native-env
+channels:
+  - defaults
+dependencies:
+  - nodejs=14.*
+  - python=3.9.*
+  - npm
